@@ -1,5 +1,5 @@
 # instagram-imagesharing-public
-Basic image sharing bot for instagram. Currently working as a shitpostbot on https://instagram.com/tezekpaylasmarobotuiso9001
+Basic image sharing bot we built for instagram on twitch stream. Currently working as a shitpostbot on https://instagram.com/tezekpaylasmarobotuiso9001
 How To Use:
 
 1:&nbsp;&nbsp;Create an app on facebook developers page. <br>
