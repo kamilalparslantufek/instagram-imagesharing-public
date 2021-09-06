@@ -11,7 +11,6 @@ How To Use:
         result id is your instagram business page id. <br>
       3.b: you can use <br>
         https://graph.facebook.com/{graph-api-version}/oauth/access_token?grant_type=fb_exchange_token&client_id={app-id}&client_secret={app-secret}&fb_exchange_token={your-access-token}<br>
-        
     this request to get a long lived token.<br>
 4:  After that you can add your images to data file with their titles, titles get posted to caption side of post.<br>
     Your images need to be between in 4:5 to 1.91:1 ratio.<br>
